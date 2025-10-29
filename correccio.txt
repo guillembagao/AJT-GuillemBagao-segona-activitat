@@ -1,0 +1,18 @@
+Exercici 1. 2/2
+  Per mostrar els perímetres per radis parells, i àrees per radis múltiples de 3, també pots escriure-ho com:
+  llista_perimetres[::2] 
+  llista_arees[::3]
+No cal indicar l'índex 101.
+
+Exercici 2. 1.5/2
+  Per restar  les longituds entre els noms (inicial-final), s'havia de fer respecte al mateix nom. 
+
+Exercici 3. 2/2
+  
+Exercici 4. 2/2
+
+Jupyter: 1/1
+
+Github: 1/1
+
+Nota final: 9.5/10
